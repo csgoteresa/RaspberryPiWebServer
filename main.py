@@ -24,7 +24,7 @@ async def toggle_led(request):
 @app.route('/shutdown')
 async def shutdown(request):
     request.app.shutdown()
-    return 'The server is shutting down...'
+    return 'The Pi Server is Shutting Down.'
 
 
 @app.route('/static/<path:path>')
