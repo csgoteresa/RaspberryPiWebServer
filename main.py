@@ -5,7 +5,7 @@ from led_module import LEDModule
 app = Microdot()
 Response.default_content_type = 'text/html'
 
-# Our LED Module
+# LED Module
 led_module = LEDModule(23)
 
 
