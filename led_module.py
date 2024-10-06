@@ -1,7 +1,6 @@
 from machine import Pin
 
 class LEDModule:
-    """This will represent our LED"""
     
     def __init__(self, pinNumber):
         self.pinNumber = pinNumber
