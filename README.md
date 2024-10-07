@@ -14,4 +14,6 @@ In this project, we aim to build a web server using the Raspberry Pi Pico to rem
 
 By using the Raspberry Pi Pico as a web server for controlling an LED, this project demonstrates how microcontrollers can be utilized to interact with physical hardware over a network, laying the groundwork for more complex IoT applications.
 
+<br>
+
 ![Alt text](https://github.com/csgoteresa/RaspberryPiWebServer/blob/main/Webserver%20Toggle.png)
