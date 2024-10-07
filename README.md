@@ -13,3 +13,5 @@ In this project, we aim to build a web server using the Raspberry Pi Pico to rem
 3. Real-Time Feedback: The web interface will provide feedback to the user, showing the current status of the LED (either "ON" or "OFF") in real-time.
 
 By using the Raspberry Pi Pico as a web server for controlling an LED, this project demonstrates how microcontrollers can be utilized to interact with physical hardware over a network, laying the groundwork for more complex IoT applications.
+
+![Alt text](https://github.com/csgoteresa/RaspberryPiWebServer/blob/main/Webserver%20Toggle.png)
